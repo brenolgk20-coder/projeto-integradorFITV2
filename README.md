@@ -8,7 +8,7 @@ Um aplicativo mobile integrado e gratuito para gerenciamento de treinos e dietas
 
 Assista ao vídeo completo com a defesa do projeto, onde explico todas as etapas de desenvolvimento, a justificativa financeira e a aplicação do método Prisma360:
 
-👉 **[CLIQUE AQUI PARA ASSISTIR AO VÍDEO NO YOUTUBE]([COLE_AQUI_O_LINK_DO_SEU_VÍDEO](https://www.youtube.com/watch?v=THY4_XYJVGA))**
+👉 **[CLIQUE AQUI PARA ASSISTIR AO VÍDEO NO YOUTUBE]((https://www.youtube.com/watch?v=THY4_XYJVGA))**
 
 
 ---
