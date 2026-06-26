@@ -7,7 +7,8 @@
 
 Assista ao vídeo completo com a defesa do projeto, onde explico todas as etapas de desenvolvimento, a justificativa financeira e a aplicação do método Prisma360:
 
-[![Assista no YouTube](https://shields.io)]([[COLE_O_LINK_DO_SEU_VIDEO_DO_YOUTUBE_AQUI](https://youtu.be/THY4_XYJVGA](https://www.youtube.com/watch?v=THY4_XYJVGA)))
+👉 [CLIQUE AQUI PARA ASSISTIR AO VÍDEO]([COLE_O_LINK_DO_SEU_VIDEO_DO_YOUTUBE_AQUI](https://www.youtube.com/watch?v=THY4_XYJVGA))
+
 
 Clique no botão acima** ou [acesse este link diretamente]([COLE_O_LINK_DO_SEU_VIDEO_DO_YOUTUBE_AQUI](https://youtu.be/THY4_XYJVGA)) para assistir ao vídeo no YouTube.
 
