@@ -7,7 +7,7 @@
 
 Assista ao vídeo completo com a defesa do projeto, onde explico todas as etapas de desenvolvimento, a justificativa financeira e a aplicação do método Prisma360:
 
-👉 [CLIQUE AQUI PARA ASSISTIR AO VÍDEO]([COLE_O_LINK_DO_SEU_VIDEO_DO_YOUTUBE_AQUI](https://www.youtube.com/watch?v=THY4_XYJVGA))
+👉 [![Assista no YouTube](https://shields.io)]([COLE_O_LINK_DO_SEU_VIDEO_DO_YOUTUBE_AQUI](https://www.youtube.com/watch?v=THY4_XYJVGA))
 ---
 🎯 Pergunta-Guia da Pesquisa
 "Como o uso de ferramentas digitais pode auxiliar no controle e na organização dos gastos pessoais, promovendo educação financeira e melhor tomada de decisões?"
